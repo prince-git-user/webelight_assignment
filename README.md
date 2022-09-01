@@ -1,2 +1,0 @@
-# webelight_assignment
-Assignment
