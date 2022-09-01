@@ -8,9 +8,9 @@ The Applications main goal is to create an  mini e-commece app so a user can see
 ## Available Scripts
 
 In the project directory, you can run:
-  npm i 
-cd frontend 
-after that run 
+ - npm i 
+-cd frontend 
+-after that run 
 
 ### `npm run dev `
 
